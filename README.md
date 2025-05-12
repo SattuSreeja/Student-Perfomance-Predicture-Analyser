@@ -27,7 +27,7 @@ This project is a **Flask-based web application** that analyzes students' past e
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/sattusreeja/-Student-Performance-Predictor-analyser.git
-cd Student Performance Predictor analyser
+cd Student-Performance-Predictor-analyser
 ```
 
 ### 2️⃣ Install Dependencies  
